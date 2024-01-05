@@ -12,4 +12,10 @@ git log
 vi readme.md 
 to exit vi :wq
 git log --oneline
+to go to a privious commit
+git reset --hard 4cacb5d
+
+to view all commit log 
+git reflog
+
 
