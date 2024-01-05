@@ -17,5 +17,7 @@ git reset --hard 4cacb5d
 
 to view all commit log 
 git reflog
-
+ git baranch --list
+add a new branch  git branch dev/addheadintext
+move to a branch  git switch dev/addheadintext
 
