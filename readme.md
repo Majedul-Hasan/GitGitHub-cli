@@ -11,3 +11,5 @@ git add --all
 git log
 vi readme.md 
 to exit vi :wq
+git log --oneline
+
